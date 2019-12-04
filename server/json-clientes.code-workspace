@@ -1,0 +1,628 @@
+{
+    "maximo": 10,
+    "pagina": 0,
+    "cantidad_elementos": 66,
+    "contenido": [
+        {
+            "id": 80267,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 3748",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 118863,
+            "numero_tarjeta": "xxxx xxxx xxxx 3748",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 3748",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "00",
+                "descripcion": "INACTIVA"
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": "2019-10-08T00:00:00Z",
+            "fecha_ultimo_vencimiento": "0002-11-30T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 3142857,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": 3142857,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": 3000000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "01",
+                "descripcion": "ACTIVA"
+            },
+            "fecha_actualizacion_datos": "2019-08-07T19:40:00Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92383,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9408",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125084,
+            "numero_tarjeta": "xxxx xxxx xxxx 9408",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9408",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": "2019-10-08T00:00:00Z",
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": 5000000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": 5000000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2018-10-25T21:50:53Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92384,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9409",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125085,
+            "numero_tarjeta": "xxxx xxxx xxxx 9409",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9409",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92385,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9407",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125086,
+            "numero_tarjeta": "xxxx xxxx xxxx 9407",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9407",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92386,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9410",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125087,
+            "numero_tarjeta": "xxxx xxxx xxxx 9410",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9410",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92387,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9403",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125088,
+            "numero_tarjeta": "xxxx xxxx xxxx 9403",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9403",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92388,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9405",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125089,
+            "numero_tarjeta": "xxxx xxxx xxxx 9405",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9405",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92389,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9404",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125090,
+            "numero_tarjeta": "xxxx xxxx xxxx 9404",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9404",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92390,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9406",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125091,
+            "numero_tarjeta": "xxxx xxxx xxxx 9406",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9406",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        },
+        {
+            "id": 92391,
+            "tipo_activo": "TARJETA",
+            "imagen_activo": "/Content/img/logos/master.gif",
+            "icono_bloqueo": "/Content/img/logos/master_no_vigente.gif",
+            "vigencia": true,
+            "numero_cuenta": "xxxx xxxx xxxx 9413",
+            "rut_titular": "6624850K",
+            "id_tarjeta": 125092,
+            "numero_tarjeta": "xxxx xxxx xxxx 9413",
+            "numero_tarjeta_tac": "xxxx xxxx xxxx 9413",
+            "marca_tarjeta": "MASTERCARD",
+            "numero_cuenta_tac": null,
+            "estado_tarjeta": {
+                "codigo": "",
+                "descripcion": ""
+            },
+            "saldo_pendiente": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "fecha_actualizacion_saldo_pendiente": null,
+            "fecha_ultimo_vencimiento": "2019-07-04T00:00:00Z",
+            "mora": 0,
+            "cupo_total": {
+                "valor": 470000,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_utilizado": {
+                "valor": 0,
+                "moneda": "CLP",
+                "simbolo": "$"
+            },
+            "cupo_disponible_compra": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "cupo_disponible_avance_efectivo": {
+                "valor": null,
+                "moneda": "CLP",
+                "simbolo": ""
+            },
+            "titularidad": "TITULAR",
+            "nombre_titular": {
+                "nombre": "JOSEFA",
+                "apellido": "FASEJO"
+            },
+            "estado_cuenta": {
+                "codigo": "-",
+                "descripcion": "-"
+            },
+            "fecha_actualizacion_datos": "2019-09-17T01:32:47Z",
+            "es_nueva": false,
+            "tiene_tarjeta_impresa": true,
+            "castigado": false,
+            "castigo": null,
+            "purgada": false,
+            "tipo_purga": null
+        }
+    ],
+    "cantidad_paginas": 7
+}

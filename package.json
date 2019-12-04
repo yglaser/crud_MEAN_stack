@@ -1,0 +1,25 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "gmail-send": "^1.2.14",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.12",
+    "mongoose": "^5.4.5",
+    "morgan": "^1.9.1",
+    "simple-oauth2": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
